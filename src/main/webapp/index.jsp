@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Welcome to expleo!</title>
+<title>Welcome to expleo!!</title>
 </head>
 <body>
 	<h1>Welcome to expleo!</h1>
